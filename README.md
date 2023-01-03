@@ -1,5 +1,5 @@
-- Hi, I’m @B1ueR0ck
-- I’m interested in Viruses & Trojans.
+- Hi, I’m @PouyaRahju
+- I’m interested in Malware.
 - I’m currently learning to create Android trojan service as native and embeding that in any Android applications.
 - I’m looking to collaborate on Professional SYS hacking teams
 
